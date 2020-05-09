@@ -642,7 +642,7 @@ body {
 
 .user-modal-container {
   position: relative;
-  width: 50%;
+  width: 40%;
   max-width: 600px;
   background: #FFF;
   margin: 3em auto 4em;
@@ -1303,7 +1303,7 @@ body {
 # Venue Section
 --------------------------------------------------------------*/
 #venue {
-  padding: 60px 0;
+  padding: 0px 0;
 }
 
 #venue .container-fluid {
@@ -1508,7 +1508,7 @@ body {
 # F.A.Q Section
 --------------------------------------------------------------*/
 #faq {
-  padding: 60px 0;
+  padding: 30px 0;
 }
 
 #faq #faq-list {
@@ -1521,7 +1521,7 @@ body {
 }
 
 #faq #faq-list a {
-  padding: 18px 0;
+  padding: 12px 0;
   display: block;
   position: relative;
   font-family: "Raleway", sans-serif;
@@ -1532,7 +1532,7 @@ body {
 }
 
 #faq #faq-list i {
-  font-size: 24px;
+  font-size: 20px;
   position: absolute;
   right: 0;
   top: 16px;
@@ -1540,6 +1540,7 @@ body {
 
 #faq #faq-list p {
   margin-bottom: 20px;
+  font-size: 14px;
 }
 
 @media (max-width: 768px) {
@@ -1552,7 +1553,7 @@ body {
 }
 
 #faq #faq-list a.collapse {
-  color: #f82249;
+  color: #0d0c36e8;
 }
 
 #faq #faq-list a.collapsed {
